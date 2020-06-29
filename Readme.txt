@@ -12,4 +12,9 @@ GITHUB: https://github.com/jash-git/UBUNTU-XAMPP
 03.xampp 裝完後發現連不到他的mysql
 	http://lewisli1.blogspot.com/2015/04/linux-xampp-mysql.html
 	
-	
+
+
+PS. 手動啟動XAMPP GUI
+$ cd /opt/lampp
+$ ls
+$ sudo ./manager-linux-x64.run
